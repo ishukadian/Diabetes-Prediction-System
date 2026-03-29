@@ -1,4 +1,4 @@
 # Diabetes-Prediction-System
-This is my frist repository
+This is my first repository
 <br>
 Author - Ishu Kadian
